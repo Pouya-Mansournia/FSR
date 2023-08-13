@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=FSR-PRJ Member=U2
+Added Component: Designator=Reg(DPACK)
+Added Member To Class: ClassName=FSR-PRJ Member=Component Reg LM1117
+Added Room: Name=FSR-PRJ

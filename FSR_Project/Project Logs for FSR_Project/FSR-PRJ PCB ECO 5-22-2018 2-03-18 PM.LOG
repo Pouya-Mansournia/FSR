@@ -1,0 +1,23 @@
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R10(R0805)
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=DS1 Pin=U1-26
+Added Net: Name=DS1
+Added Pin To Net: NetName=DS2 Pin=U1-25
+Added Net: Name=DS2
+Added Pin To Net: NetName=DS3 Pin=Dw1-1
+Added Pin To Net: NetName=DS3 Pin=R10-1
+Added Net: Name=DS3
+Added Pin To Net: NetName=DS4 Pin=Dw1-2
+Added Pin To Net: NetName=DS4 Pin=R9-2
+Added Net: Name=DS4
+Added Pin To Net: NetName=R1 Pin=R1-2
+Added Pin To Net: NetName=R1 Pin=U1-28
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=R2-2
+Added Pin To Net: NetName=R2 Pin=U1-27
+Added Net: Name=R2
+Added Member To Class: ClassName=FSR-PRJ Member=Component R9 Res 0805
+Added Member To Class: ClassName=FSR-PRJ Member=Component R10 Res 0805
+Added Room: Name=FSR-PRJ

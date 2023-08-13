@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=R1 Pin=U1-9
+Removed Pin From Net: NetName=R2 Pin=U1-11
+Added Pin To Net: NetName=R2 Pin=U1-9
+Added Pin To Net: NetName=R1 Pin=U1-11
+Added Member To Class: ClassName=FSR-PRJ Member=Component Dw1 DipSwitch2

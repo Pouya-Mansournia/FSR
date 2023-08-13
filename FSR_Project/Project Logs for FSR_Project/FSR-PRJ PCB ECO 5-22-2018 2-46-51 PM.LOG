@@ -1,0 +1,26 @@
+Added Component: Designator=C4(Cap0805)
+Added Component: Designator=C5(Cap0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R13(R0805)
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=Sp1-3
+Added Pin To Net: NetName=GND Pin=Sp1-4
+Added Pin To Net: NetName=AD1 Pin=C5-2
+Added Pin To Net: NetName=AD1 Pin=R13-2
+Added Pin To Net: NetName=AD1 Pin=U1-23
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=C4-1
+Added Pin To Net: NetName=AD2 Pin=R12-2
+Added Pin To Net: NetName=AD2 Pin=U1-24
+Added Net: Name=AD2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=Sp1-2
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=Sp1-1
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=FSR-PRJ Member=Component C4 CAP 805
+Added Member To Class: ClassName=FSR-PRJ Member=Component C5 CAP 805
+Added Member To Class: ClassName=FSR-PRJ Member=Component R12 Res 0805
+Added Member To Class: ClassName=FSR-PRJ Member=Component R13 Res 0805

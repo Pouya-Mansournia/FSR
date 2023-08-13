@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=XT1 Pin=C6-1
+Added Pin To Net: NetName=XT2 Pin=C7-1
+Added Pin To Net: NetName=XT2 Pin=Y1-1
+Added Pin To Net: NetName=XT1 Pin=Y1-2
+Added Room: Name=FSR-PRJ

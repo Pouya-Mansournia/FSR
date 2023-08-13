@@ -1,0 +1,7 @@
+Added Component: Designator=D3(DipSwitch2)
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=DS1 Pin=D3-3
+Added Pin To Net: NetName=DS2 Pin=D3-4
+Added Member To Class: ClassName=FSR-PRJ Member=Component D3 DipSwitch2
+Added Room: Name=FSR-PRJ

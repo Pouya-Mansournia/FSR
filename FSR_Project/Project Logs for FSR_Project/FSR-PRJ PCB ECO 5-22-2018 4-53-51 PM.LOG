@@ -1,0 +1,6 @@
+Added Component: Designator=C2(Cap0805)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VDD Pin=C2-2
+Added Pin To Net: NetName=RX Pin=U1-30
+Added Pin To Net: NetName=TX Pin=U1-31
+Added Member To Class: ClassName=FSR-PRJ Member=Component C2 100nf

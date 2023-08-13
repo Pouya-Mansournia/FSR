@@ -1,0 +1,9 @@
+Added Component: Designator=K1(RelayMinionSmall)
+Added Component: Designator=K2(RelayMinionSmall)
+Added Component: Designator=Sp1(SPOX_1*4RIGHT)
+Added Component: Designator=Sp2(SPOX_1*4RIGHT)
+Added Component: Designator=Sp3(SPOX_1*4RIGHT)
+Added Component: Designator=U1(32A_N)
+Added Component: Designator=U2(LM2576S)
+Added Class: Name=FSR-PRJ
+Added Room: Name=FSR-PRJ

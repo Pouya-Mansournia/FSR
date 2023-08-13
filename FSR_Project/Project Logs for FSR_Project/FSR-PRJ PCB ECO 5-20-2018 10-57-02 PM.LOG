@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=Reg-1
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=Reg-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD Pin=Reg-3
+Added Net: Name=VDD
+Added Room: Name=FSR-PRJ

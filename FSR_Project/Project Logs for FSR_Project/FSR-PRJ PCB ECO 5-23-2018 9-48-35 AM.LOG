@@ -1,0 +1,12 @@
+Change Component Comment : Designator=Q1 Old Comment=TIP31 NPN New Comment=BC817 NPN
+Change Component Comment : Designator=Q2 Old Comment=TIP31 NPN New Comment=BC817 NPN
+Added Component: Designator=R18(R0805)
+Added Component: Designator=R19(R0805)
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=DCM Pin=R18-2
+Added Pin To Net: NetName=DCM Pin=R19-1
+Added Net: Name=DCM
+Added Member To Class: ClassName=FSR-PRJ Member=Component R18 Res 0805
+Added Member To Class: ClassName=FSR-PRJ Member=Component R19 Res 0805
+Added Room: Name=FSR-PRJ
