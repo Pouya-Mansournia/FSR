@@ -1,1 +1,3 @@
-# FSR
+In the realm of robotics innovation, I undertook the design and creation of an exceptional FSR board. This board boasts a remarkable ability: to adeptly decipher analog-to-digital signals and glean insights from pressure sensors. The convergence of these features proves particularly pivotal in the domain of robotic manipulation.
+
+Imagine a scenario where a robotic gripper deftly interacts with objects. My FSR board shines in precisely such a scenario. As the robotic appendage encounters an object, the pressure exerted by the gripper becomes discernible through the board's sophisticated sensory capabilities. Notably, the data acquired isn't limited to a superficial grasp; it delves deeper into the realm of motor dynamics.
